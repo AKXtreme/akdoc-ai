@@ -42,7 +42,7 @@ This is the easiest way to run the full stack locally. You only need Docker Desk
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/akdoc-ai.git
+git clone https://github.com/AKXtreme/akdoc-ai.git
 cd akdoc-ai
 ```
 
